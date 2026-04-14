@@ -1,0 +1,12 @@
+{
+  "export_job_id": "d5f7fb01-3d7d-43fc-a664-d4c118e8bdfa",
+  "id_short": 629968,
+  "published_at": "2026-04-14T07:37:36Z",
+  "repo_name": "all-restaurants-in-san-marcos-california-us-sample-629968",
+  "sample_asset_name": "beamstation_629968_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/629968/beamstation_629968_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_records": 20,
+  "sample_sha256": "ab49eca9b5ec1802a5e079832ae0a7ee71222e03cc4c8a88c519b8d62311f628",
+  "sample_size_bytes": 88883,
+  "total_records": 206
+}
