@@ -1,6 +1,6 @@
 # All Restaurants in San Marcos, California, US
 
-> Free BeamStation sample export with 20 rows and masked direct-contact fields.
+> Free BeamStation sample export with 19 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `629968` |
 | Location | San Marcos |
 | Category | Restaurants |
-| Full dataset size | 206 records |
-| Free sample size | 20 records (9.71%) |
-| Last export | 2026-04-09T09:50:50.443691+00:00 |
+| Full dataset size | 190 records |
+| Free sample size | 19 records (10.0%) |
+| Last export | 2026-04-16T09:45:55.468777+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-san-marcos-california-us-sample-629968/releases/download/sample-latest/beamstation_629968_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
